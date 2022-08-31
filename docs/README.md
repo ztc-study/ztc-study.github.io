@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /logo.jpeg
-actionText: 快速上手 →
-actionLink: /hello/
+actionText: 我们开始吧 →
+actionLink: /vue/one
 features:
 - title: 简洁至上
   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
