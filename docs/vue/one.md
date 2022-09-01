@@ -10,16 +10,3 @@
 - BFC在页面上是独立的容器，不受容器外面的元素影响，也不会影响外面的元素
 
 （1）如何创建BFC
-
-- 父元素overflow不为visible
-- position不为static、relative
-- 根元素
-- float不为none
-- display为inline-block,table-cell,flex,inline-flex
-
-（2）BFC的作用
-
-- 解决边距重叠问题
-- 清除浮动的影响
-- 防止文字环绕
-
